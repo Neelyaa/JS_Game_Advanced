@@ -1,6 +1,7 @@
 <h1 align=center>JavaScript Game Advanced</h1>
 <h2 align=center> Règles / Rules :</h2>
 <p align=center>Obtenir un score de 50 en 30 seconde de jeu. / Get a score of 50 in 30 seconds of play.</p>
+<h3 align=center> Jeux / Game : <br><br> https://neelyaa.github.io/JS_Game_Advanced/</h3>
 <br>
 
 <table align=center>
@@ -30,8 +31,14 @@
     </tr>
   </tbody>
 </table>
+<br>
+
+
+<p align=center> Effets sonore / Sound effects : https://opengameart.org/ <br> Sprites : https://bevouliin.com/</p> <br>
+
+<img src="https://github.com/Neelyaa/JS_Game_Advanced/assets/100840997/b2db6950-e74c-417c-b1ce-bc870dc91610"> <br><br><img src="https://github.com/Neelyaa/JS_Game_Advanced/assets/100840997/94729a1e-31a9-41a9-afc6-0fd73e131ba0"> <br><br><img src="https://github.com/Neelyaa/JS_Game_Advanced/assets/100840997/4daf6040-cf7a-478b-b514-90dee65db7c9"> <br><br><img src="https://github.com/Neelyaa/JS_Game_Advanced/assets/100840997/6bc92dc7-3505-4a93-9d72-2c9677e326c4">
 
 
 
-<p align=center> Effets sonore / Sound effects : https://opengameart.org/ <br> Sprites : https://bevouliin.com/</p>
+
 
