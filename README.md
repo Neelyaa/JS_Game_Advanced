@@ -1,6 +1,6 @@
 <h1 align=center>JavaScript Game Advanced</h1>
-<h2 align=center> Règles / Rules :</h2>
-<p align=center>Obtenir un score de 50 en 30 seconde de jeu. / Get a score of 50 in 30 seconds of play.</p>
+<h2 align=center> Règle / Rule :</h2>
+<p align=center>Obtenir un score de <b>50</b> en <b>30 seconde</b> de jeu. / Get a score of <b>50</b> in <b>30 seconds</b> of play.</p>
 <h3 align=center> Jeux / Game : <br><br> https://neelyaa.github.io/JS_Game_Advanced/</h3>
 <br>
 
