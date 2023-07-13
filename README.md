@@ -33,5 +33,5 @@
 
 
 
-<p align=center> Effets sonore : https://opengameart.org/ <br> Sprites : https://bevouliin.com/</p>
+<p align=center> Effets sonore / Sound effects : https://opengameart.org/ <br> Sprites : https://bevouliin.com/</p>
 
